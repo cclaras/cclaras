@@ -6,7 +6,7 @@ Tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sistemas! Espero 
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img width="48" height="48" alt="icone-c" src="https://github.com/user-attachments/assets/c34596e4-2c1d-4f64-af8c-e214257b83d9">
+  <img width="40" height="30" alt="icone-c" src="https://github.com/user-attachments/assets/c34596e4-2c1d-4f64-af8c-e214257b83d9">
 
 </div>
   
