@@ -1,5 +1,6 @@
 ## Olá! Eu sou a Clara.
-Tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sistemas! Espero que goste do meu repositório.
+Tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sistemas! 
+Ando procurando meu lugar na área de Tecnologia. Espero que goste do meu repositório. :)
 
 <div style="display: inline_block"><br>
   <img width="48" height="48" alt="icone-html" src="https://github.com/user-attachments/assets/f918fcf0-8aec-4055-867f-e5aa3555e7b4" />
