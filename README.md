@@ -1,5 +1,5 @@
 ## Olá! Eu sou a Clara.
-Tenho 20 anos e sou estudante de Análise e Desenvolvimento de Sistemas! 
+Tenho 20 anos e sou estudante de Tecnologia da Informação! 
 Ando procurando meu lugar na área de Tecnologia. Espero que goste do meu repositório. :)
 
  
